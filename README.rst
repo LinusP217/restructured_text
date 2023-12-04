@@ -27,6 +27,10 @@ short.
 
 This is another one.
 
----
-
-test
+Practice with different styles
+------------------------------
+* *italicized text*
+* **bold text**
+* _something_
+* `something`
+* ~something~
