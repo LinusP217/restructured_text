@@ -34,3 +34,13 @@ Practice with different styles
 * _something_
 * `something`
 * ~something~
+
+Image Insert
+------------
+
+.. image:: fragment_ions.png
+   :height: 100
+   :width: 200
+   :scale: 50
+   :alt: alternate text
+
