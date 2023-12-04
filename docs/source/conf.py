@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Testing Restructured Text Capabilities'
-copyright = '2023, Stannis of the House Baratheon'
-author = 'Stannis of the House Baratheon'
+project = 'DFT-PIB Docs'
+copyright = '2023, Stannis of the House Baratheon (bastard claimant to the throne)'
+author = 'Stannis of the House Baratheon, Lord of the Seven Kingdoms and Protector of the realm'
 release = 'v0.0.23'
 
 # -- General configuration ---------------------------------------------------
