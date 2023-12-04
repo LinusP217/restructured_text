@@ -1,4 +1,4 @@
-$project
+project
 ========
 
 $project will solve your problem of where to start with documentation,
@@ -16,26 +16,17 @@ Features
 - Be awesome
 - Make things faster
 
-Installation
-------------
+Practice with ReStructured Text
+-------------------------------
 
-Install $project by running:
+This is a paragraph.  It's quite
+short.
 
-    install project
+   This paragraph will result in an indented block of
+   text, typically used for quoting other text.
 
-Contribute
-----------
+This is another one.
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+---
 
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+test
