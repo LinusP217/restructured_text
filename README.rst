@@ -35,6 +35,18 @@ Practice with different styles
 * `something`
 * ~something~
 
+Admonition Test
+---------------
+
+.. DANGER::
+   Beware killer rabbits!
+
+.. danger::
+   does the capitalization matter?
+
+.. hint::
+   make sure to use the command line
+
 Image Insert
 ------------
 
